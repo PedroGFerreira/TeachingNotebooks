@@ -5,7 +5,7 @@ Notebooks and scripts used for teaching Machine Learning and Data Science in dif
 
 - **decision_tree.py**: create a simple decision tree model for a classifier to predict the "cut" of the diamond: "Fair", "Good", "Very Good", "Ideal", "Premium".
 
-
+- **Auto.ipynb**: notebook to explore the dataset, visualize the data and build simple predictive models to predict origin of the car: european, USA, or Asian.
 
 # Data
 
