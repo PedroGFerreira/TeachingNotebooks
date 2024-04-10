@@ -1,6 +1,10 @@
 Notebooks and scripts used for teaching Machine Learning and Data Science in different courses at BSc, MSc and PhD. 
 
-# Scripts
+# Scripts4
+- **diamond_preprocess.py**: perform some data pre-processing steps, including normalization of the data, imputation, feature selection and creation and data visualization for exploration
+
+- **decision_tree.py**: create a simple decision tree model for a classifier to predict the "cut" of the diamond: "Fair", "Good", "Very Good", "Ideal", "Premium".
+
 
 
 # Data
