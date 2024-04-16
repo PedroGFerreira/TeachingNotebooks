@@ -19,7 +19,7 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split, cross_val_score
 
 
-os.chdir("/Users/test/Dropbox/Map-i/ML_Lectures/datasets/")
+os.chdir("../datasets/")
 # read the csv table using Pandas
 default = read_csv("Default.txt", sep="\t")
 # 3 input variables and 1 output variable: default
