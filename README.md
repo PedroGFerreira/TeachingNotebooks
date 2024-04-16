@@ -11,6 +11,8 @@ Notebooks and scripts used for teaching Machine Learning and Data Science in dif
 
 - **scaling_pca_hc.py**: script to perform unsupervised learning. Principal Component Analysis with 2 implementations. Clustering: k-means and Hierarchical Clustering. Impact of normalization and scaling of data is tested.
 
+- **classifier_comparison.py**: script comparing the results of a classifier with the baseline estimator; building a confusion matrix; roc curve; multiclass classification; creating a pre-processing pipeline; logistic regression, decision tree, svm, random forests classifiers.
+
 
 
 # Data
