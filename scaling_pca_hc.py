@@ -18,7 +18,7 @@ import seaborn as sns
 
 
 
-os.chdir("/Users/test/Dropbox/AulasUniversidadeMinho/Map-i/ML_Lectures/Lecture1/datasets/")
+os.chdir("../datasets/")
 # read the csv table using Pandas
 pima = read_csv("diabetes.csv", sep=",")
 
