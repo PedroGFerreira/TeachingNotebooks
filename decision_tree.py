@@ -19,7 +19,7 @@ import sklearn
 from sklearn.model_selection import train_test_split
 
 # 2. Change to directory with the dataset and load the dataset diamonds2.csv
-os.chdir('/yourdirectory/datasets/')
+os.chdir('../datasets/')
 df = pd.read_csv("diamonds.csv", sep=",")
 
 
