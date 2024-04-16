@@ -61,7 +61,7 @@ import seaborn as sns
 # Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 # Task: Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-os.chdir("/Users/test/Dropbox/Map-i/ML_Lectures/datasets/")
+os.chdir("../datasets/")
 # read the csv table using Pandas
 pima = read_csv("diabetes.csv", sep=",")
 type(pima)
